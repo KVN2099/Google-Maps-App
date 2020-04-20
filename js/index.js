@@ -145,7 +145,7 @@ function createMarker(latlng, name, address, index, phone, status) {
   + address + "</a><br><i class='fas fa-phone-square-alt'></i>  " + phone;
   // var image = 'https://image.flaticon.com/icons/svg/2754/2754727.svg';
   var image = {
-    url: 'https://image.flaticon.com/icons/svg/2754/2754727.svg',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Shopping_Cart_Flat_Icon_Vector.svg/512px-Shopping_Cart_Flat_Icon_Vector.svg.png',
     size: new google.maps.Size(71, 71),
     origin: new google.maps.Point(0, 0),
     anchor: new google.maps.Point(17, 34),
